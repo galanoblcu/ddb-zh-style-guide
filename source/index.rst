@@ -7,9 +7,9 @@
 =================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
-   :caption: 全部章节目录
+   :caption: 章节目录
 
    关于本指南
    语言风格/index
