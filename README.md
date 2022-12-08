@@ -35,3 +35,5 @@ MIT
 - [reStructuredText — Sphinx 1.8.5 文档](https://sphinx-doc.readthedocs.io/zh_CN/master/usage/restructuredtext/index.html)
 
 - [I'd rather be writing](https://idratherbewriting.com)
+
+- [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
